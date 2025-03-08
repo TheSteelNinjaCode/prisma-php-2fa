@@ -16,5 +16,14 @@
         "includedFiles": [
             "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\prisma-php-2fa\\src\\app\\dashboard\\index.php"
         ]
+    },
+    "signup": {
+        "url": "signup",
+        "fileName": "signup",
+        "isCacheable": true,
+        "cacheTtl": 0,
+        "includedFiles": [
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\prisma-php-2fa\\src\\app\\(auth)\\signup\\index.php"
+        ]
     }
 }

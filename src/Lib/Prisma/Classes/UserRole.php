@@ -302,7 +302,7 @@ class UserRole implements IModel
                 }
 
                 if ($isReadOnly && !array_key_exists($fieldName, $dataToCreate)) {
-                    if (!$isRequired) {
+                    if ($isRequired) {
                         $this->handleRelatedField($fieldName, $dataToCreate, $bindings, $insertFields, $placeholders);
                         continue;
                     }
