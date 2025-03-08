@@ -1,0 +1,306 @@
+{
+  "Card": {
+    "className": "Lib\\PHPX\\PHPXUI\\Card",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Card.php"
+  },
+  "CardContent": {
+    "className": "Lib\\PHPX\\PHPXUI\\CardContent",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Card.php"
+  },
+  "CardHeader": {
+    "className": "Lib\\PHPX\\PHPXUI\\CardHeader",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Card.php"
+  },
+  "CardTitle": {
+    "className": "Lib\\PHPX\\PHPXUI\\CardTitle",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Card.php"
+  },
+  "CardDescription": {
+    "className": "Lib\\PHPX\\PHPXUI\\CardDescription",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Card.php"
+  },
+  "Input": {
+    "className": "Lib\\PHPX\\PHPXUI\\Input",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Input.php"
+  },
+  "Label": {
+    "className": "Lib\\PHPX\\PHPXUI\\Label",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Label.php"
+  },
+  "Button": {
+    "className": "Lib\\PHPX\\PHPXUI\\Button",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Button.php"
+  },
+  "Dialog": {
+    "className": "Lib\\PHPX\\PHPXUI\\Dialog",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Dialog.php"
+  },
+  "DialogTrigger": {
+    "className": "Lib\\PHPX\\PHPXUI\\DialogTrigger",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Dialog.php"
+  },
+  "DialogContent": {
+    "className": "Lib\\PHPX\\PHPXUI\\DialogContent",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Dialog.php"
+  },
+  "DialogHeader": {
+    "className": "Lib\\PHPX\\PHPXUI\\DialogHeader",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Dialog.php"
+  },
+  "DialogTitle": {
+    "className": "Lib\\PHPX\\PHPXUI\\DialogTitle",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Dialog.php"
+  },
+  "DialogDescription": {
+    "className": "Lib\\PHPX\\PHPXUI\\DialogDescription",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Dialog.php"
+  },
+  "DialogFooter": {
+    "className": "Lib\\PHPX\\PHPXUI\\DialogFooter",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Dialog.php"
+  },
+  "PasswordInput": {
+    "className": "app\\_components\\PasswordInput",
+    "filePath": "app\\_components\\PasswordInput.php"
+  },
+  "Checkbox": {
+    "className": "Lib\\PHPX\\PHPXUI\\Checkbox",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Checkbox.php"
+  },
+  "DropdownMenu": {
+    "className": "Lib\\PHPX\\PHPXUI\\DropdownMenu",
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "DropdownMenuTrigger": {
+    "className": "Lib\\PHPX\\PHPXUI\\DropdownMenuTrigger",
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "DropdownMenuContent": {
+    "className": "Lib\\PHPX\\PHPXUI\\DropdownMenuContent",
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "DropdownMenuLabel": {
+    "className": "Lib\\PHPX\\PHPXUI\\DropdownMenuLabel",
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "DropdownMenuSeparator": {
+    "className": "Lib\\PHPX\\PHPXUI\\DropdownMenuSeparator",
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "DropdownMenuGroup": {
+    "className": "Lib\\PHPX\\PHPXUI\\DropdownMenuGroup",
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "DropdownMenuItem": {
+    "className": "Lib\\PHPX\\PHPXUI\\DropdownMenuItem",
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "DropdownMenuShortcut": {
+    "className": "Lib\\PHPX\\PHPXUI\\DropdownMenuShortcut",
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "DropdownMenuSub": {
+    "className": "Lib\\PHPX\\PHPXUI\\DropdownMenuSub",
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "DropdownMenuSubTrigger": {
+    "className": "Lib\\PHPX\\PHPXUI\\DropdownMenuSubTrigger",
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "DropdownMenuSubContent": {
+    "className": "Lib\\PHPX\\PHPXUI\\DropdownMenuSubContent",
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "Avatar": {
+    "className": "Lib\\PHPX\\PHPXUI\\Avatar",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Avatar.php"
+  },
+  "AvatarImage": {
+    "className": "Lib\\PHPX\\PHPXUI\\AvatarImage",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Avatar.php"
+  },
+  "House": {
+    "className": "Lib\\PHPX\\PPIcons\\House",
+    "filePath": "Lib\\PHPX\\PPIcons\\House.php"
+  },
+  "Users": {
+    "className": "Lib\\PHPX\\PPIcons\\Users",
+    "filePath": "Lib\\PHPX\\PPIcons\\Users.php"
+  },
+  "UserCog": {
+    "className": "Lib\\PHPX\\PPIcons\\UserCog",
+    "filePath": "Lib\\PHPX\\PPIcons\\UserCog.php"
+  },
+  "Settings": {
+    "className": "Lib\\PHPX\\PPIcons\\Settings",
+    "filePath": "Lib\\PHPX\\PPIcons\\Settings.php"
+  },
+  "PanelLeft": {
+    "className": "Lib\\PHPX\\PPIcons\\PanelLeft",
+    "filePath": "Lib\\PHPX\\PPIcons\\PanelLeft.php"
+  },
+  "Table": {
+    "className": "Lib\\PHPX\\PHPXUI\\Table",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Table.php"
+  },
+  "TableHeader": {
+    "className": "Lib\\PHPX\\PHPXUI\\TableHeader",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Table.php"
+  },
+  "TableRow": {
+    "className": "Lib\\PHPX\\PHPXUI\\TableRow",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Table.php"
+  },
+  "TableHead": {
+    "className": "Lib\\PHPX\\PHPXUI\\TableHead",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Table.php"
+  },
+  "TableBody": {
+    "className": "Lib\\PHPX\\PHPXUI\\TableBody",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Table.php"
+  },
+  "TableCell": {
+    "className": "Lib\\PHPX\\PHPXUI\\TableCell",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Table.php"
+  },
+  "Badge": {
+    "className": "Lib\\PHPX\\PHPXUI\\Badge",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Badge.php"
+  },
+  "Pencil": {
+    "className": "Lib\\PHPX\\PPIcons\\Pencil",
+    "filePath": "Lib\\PHPX\\PPIcons\\Pencil.php"
+  },
+  "Trash": {
+    "className": "Lib\\PHPX\\PPIcons\\Trash",
+    "filePath": "Lib\\PHPX\\PPIcons\\Trash.php"
+  },
+  "Plus": {
+    "className": "Lib\\PHPX\\PPIcons\\Plus",
+    "filePath": "Lib\\PHPX\\PPIcons\\Plus.php"
+  },
+  "LoaderCircle": {
+    "className": "Lib\\PHPX\\PPIcons\\LoaderCircle",
+    "filePath": "Lib\\PHPX\\PPIcons\\LoaderCircle.php"
+  },
+  "Select": {
+    "className": "Lib\\PHPX\\PHPXUI\\Select",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Select.php"
+  },
+  "SelectGroup": {
+    "className": "Lib\\PHPX\\PHPXUI\\SelectGroup",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Select.php"
+  },
+  "SelectItem": {
+    "className": "Lib\\PHPX\\PHPXUI\\SelectItem",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Select.php"
+  },
+  "PHPX": {
+    "className": "Lib\\PHPX\\PHPX",
+    "filePath": "Lib\\PHPX\\PHPX.php"
+  },
+  "Eye": {
+    "className": "Lib\\PHPX\\PPIcons\\Eye",
+    "filePath": "Lib\\PHPX\\PPIcons\\Eye.php"
+  },
+  "EyeOff": {
+    "className": "Lib\\PHPX\\PPIcons\\EyeOff",
+    "filePath": "Lib\\PHPX\\PPIcons\\EyeOff.php"
+  },
+  "Slot": {
+    "className": "Lib\\PHPX\\PHPXUI\\Slot",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Slot.php"
+  },
+  "Check": {
+    "className": "Lib\\PHPX\\PPIcons\\Check",
+    "filePath": "Lib\\PHPX\\PPIcons\\Check.php"
+  },
+  "Command": {
+    "className": "Lib\\PHPX\\PHPXUI\\Command",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Command.php"
+  },
+  "CommandEmpty": {
+    "className": "Lib\\PHPX\\PHPXUI\\CommandEmpty",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Command.php"
+  },
+  "CommandGroup": {
+    "className": "Lib\\PHPX\\PHPXUI\\CommandGroup",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Command.php"
+  },
+  "CommandInput": {
+    "className": "Lib\\PHPX\\PHPXUI\\CommandInput",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Command.php"
+  },
+  "CommandItem": {
+    "className": "Lib\\PHPX\\PHPXUI\\CommandItem",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Command.php"
+  },
+  "CommandList": {
+    "className": "Lib\\PHPX\\PHPXUI\\CommandList",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Command.php"
+  },
+  "Popover": {
+    "className": "Lib\\PHPX\\PHPXUI\\Popover",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Popover.php"
+  },
+  "PopoverContent": {
+    "className": "Lib\\PHPX\\PHPXUI\\PopoverContent",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Popover.php"
+  },
+  "PopoverTrigger": {
+    "className": "Lib\\PHPX\\PHPXUI\\PopoverTrigger",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Popover.php"
+  },
+  "Calendar": {
+    "className": "Lib\\PHPX\\PHPXUI\\Calendar",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Calendar.php"
+  },
+  "CreditCard": {
+    "className": "Lib\\PHPX\\PPIcons\\CreditCard",
+    "filePath": "Lib\\PHPX\\PPIcons\\CreditCard.php"
+  },
+  "AvatarFallback": {
+    "className": "Lib\\PHPX\\PHPXUI\\AvatarFallback",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Avatar.php"
+  },
+  "Separator": {
+    "className": "Lib\\PHPX\\PHPXUI\\Separator",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Separator.php"
+  },
+  "Sheet": {
+    "className": "Lib\\PHPX\\PHPXUI\\Sheet",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Sheet.php"
+  },
+  "SheetContent": {
+    "className": "Lib\\PHPX\\PHPXUI\\SheetContent",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Sheet.php"
+  },
+  "Skeleton": {
+    "className": "Lib\\PHPX\\PHPXUI\\Skeleton",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Skeleton.php"
+  },
+  "Tooltip": {
+    "className": "Lib\\PHPX\\PHPXUI\\Tooltip",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Tooltip.php"
+  },
+  "TooltipContent": {
+    "className": "Lib\\PHPX\\PHPXUI\\TooltipContent",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Tooltip.php"
+  },
+  "TooltipProvider": {
+    "className": "Lib\\PHPX\\PHPXUI\\TooltipProvider",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Tooltip.php"
+  },
+  "TooltipTrigger": {
+    "className": "Lib\\PHPX\\PHPXUI\\TooltipTrigger",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Tooltip.php"
+  },
+  "Toast": {
+    "className": "Lib\\PHPX\\PHPXUI\\Toast",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Toast.php"
+  },
+  "CardFooter": {
+    "className": "Lib\\PHPX\\PHPXUI\\CardFooter",
+    "filePath": "Lib\\PHPX\\PHPXUI\\Card.php"
+  }
+}

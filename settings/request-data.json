@@ -1,0 +1,20 @@
+{
+    "signin": {
+        "url": "signin",
+        "fileName": "signin",
+        "isCacheable": true,
+        "cacheTtl": 0,
+        "includedFiles": [
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\prisma-php-2fa\\src\\app\\(auth)\\signin\\index.php"
+        ]
+    },
+    "dashboard": {
+        "url": "dashboard",
+        "fileName": "dashboard",
+        "isCacheable": true,
+        "cacheTtl": 0,
+        "includedFiles": [
+            "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\prisma-php-2fa\\src\\app\\dashboard\\index.php"
+        ]
+    }
+}

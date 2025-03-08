@@ -1,0 +1,638 @@
+{
+  "app\\_components\\PasswordInput": {
+    "filePath": "app\\_components\\PasswordInput.php"
+  },
+  "Lib\\PHPX\\PHPX": {
+    "filePath": "Lib\\PHPX\\PHPX.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Accordion": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Accordion.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\AccordionContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Accordion.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\AccordionItem": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Accordion.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\AccordionTrigger": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Accordion.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Alert": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Alert.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\AlertTitle": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Alert.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\AlertDescription": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Alert.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\AlertDialog": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\AlertDialog.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\AlertDialogOverlay": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\AlertDialog.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\AlertDialogTrigger": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\AlertDialog.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\AlertDialogContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\AlertDialog.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\AlertDialogHeader": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\AlertDialog.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\AlertDialogFooter": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\AlertDialog.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\AlertDialogTitle": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\AlertDialog.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\AlertDialogDescription": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\AlertDialog.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\AlertDialogAction": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\AlertDialog.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\AlertDialogCancel": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\AlertDialog.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\AspectRatio": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\AspectRatio.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Avatar": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Avatar.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\AvatarImage": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Avatar.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\AvatarFallback": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Avatar.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Badge": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Badge.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Breadcrumb": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Breadcrumb.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\BreadcrumbList": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Breadcrumb.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\BreadcrumbItem": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Breadcrumb.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\BreadcrumbLink": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Breadcrumb.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\BreadcrumbPage": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Breadcrumb.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\BreadcrumbSeparator": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Breadcrumb.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\BreadcrumbEllipsis": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Breadcrumb.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Button": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Button.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Calendar": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Calendar.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Card": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Card.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\CardContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Card.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\CardDescription": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Card.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\CardFooter": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Card.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\CardHeader": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Card.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\CardTitle": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Card.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Carousel": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Carousel.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\CarouselContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Carousel.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\CarouselItem": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Carousel.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\CarouselPrevious": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Carousel.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\CarouselNext": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Carousel.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Chart": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Chart.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ChartContainer": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Chart.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ChartTooltipContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Chart.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Checkbox": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Checkbox.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Collapsible": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Collapsible.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\CollapsibleContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Collapsible.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\CollapsibleTrigger": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Collapsible.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Combobox": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Combobox.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Command": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Command.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\CommandDialog": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Command.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\CommandEmpty": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Command.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\CommandGroup": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Command.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\CommandInput": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Command.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\CommandItem": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Command.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\CommandList": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Command.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\CommandSeparator": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Command.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\CommandShortcut": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Command.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ContextMenu": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\ContextMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ContextMenuCheckboxItem": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\ContextMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ContextMenuContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\ContextMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ContextMenuItem": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\ContextMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ContextMenuLabel": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\ContextMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ContextMenuRadioGroup": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\ContextMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ContextMenuRadioItem": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\ContextMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ContextMenuSeparator": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\ContextMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ContextMenuShortcut": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\ContextMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ContextMenuSub": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\ContextMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ContextMenuSubContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\ContextMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ContextMenuSubTrigger": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\ContextMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ContextMenuTrigger": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\ContextMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DatePicker": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\DatePicker.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Dialog": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Dialog.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DialogTrigger": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Dialog.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DialogContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Dialog.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DialogHeader": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Dialog.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DialogTitle": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Dialog.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DialogDescription": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Dialog.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DialogFooter": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Dialog.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Drawer": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Drawer.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DrawerClose": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Drawer.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DrawerContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Drawer.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DrawerDescription": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Drawer.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DrawerFooter": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Drawer.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DrawerHeader": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Drawer.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DrawerTitle": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Drawer.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DrawerTrigger": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Drawer.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DropdownMenu": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DropdownMenuTrigger": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DropdownMenuContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DropdownMenuGroup": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DropdownMenuSubTrigger": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DropdownMenuSubContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DropdownMenuSub": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DropdownMenuRadioGroup": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DropdownMenuItem": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DropdownMenuCheckboxItem": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DropdownMenuRadioItem": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DropdownMenuLabel": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DropdownMenuSeparator": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\DropdownMenuShortcut": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\DropdownMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Form": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Form.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\FormField": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Form.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\FormItem": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Form.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\FormLabel": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Form.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\FormControl": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Form.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\FormDescription": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Form.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\FormMessage": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Form.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\HoverCard": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\HoverCard.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\HoverCardContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\HoverCard.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\HoverCardTrigger": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\HoverCard.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Input": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Input.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\InputOTP": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\InputOTP.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\InputOTPGroup": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\InputOTP.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\InputOTPSlot": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\InputOTP.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\InputOTPSeparator": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\InputOTP.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Label": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Label.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Menubar": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Menubar.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\MenubarCheckboxItem": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Menubar.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\MenubarContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Menubar.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\MenubarItem": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Menubar.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\MenubarMenu": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Menubar.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\MenuRadioGroup": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Menubar.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\MenuRadioItem": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Menubar.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\MenubarSeparator": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Menubar.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\MenubarShortcut": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Menubar.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\MenubarSub": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Menubar.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\MenubarSubContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Menubar.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\MenubarTrigger": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Menubar.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\MenubarSubTrigger": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Menubar.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\NavigationMenu": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Sidebar.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\NavigationMenuContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\NavigationMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\NavigationMenuItem": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\NavigationMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\NavigationMenuLink": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\NavigationMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\NavigationMenuList": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\NavigationMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\NavigationMenuTrigger": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\NavigationMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\navigationMenuTriggerStyle": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\NavigationMenu.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Pagination": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Pagination.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\PaginationContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Pagination.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\PaginationItem": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Pagination.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\PaginationLink": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Pagination.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\PaginationEllipsis": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Pagination.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\PaginationPrevious": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Pagination.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\PaginationNext": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Pagination.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Popover": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Popover.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\PopoverTrigger": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Popover.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\PopoverAnchor": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Popover.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\PopoverContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Popover.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Progress": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Progress.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\RadioGroup": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\RadioGroup.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\RadioGroupItem": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\RadioGroup.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ResizablePanelGroup": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Resizable.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ResizablePanel": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Resizable.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ResizableHandle": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Resizable.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ScrollArea": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\ScrollArea.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Select": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Select.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\SelectGroup": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Select.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\SelectItem": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Select.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Separator": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Separator.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Sheet": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Sheet.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\SheetOverlay": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Sheet.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\SheetContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Sheet.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\SheetTrigger": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Sheet.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\SheetClose": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Sheet.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\SheetHeader": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Sheet.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\SheetFooter": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Sheet.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\SheetTitle": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Sheet.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\SheetDescription": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Sheet.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Skeleton": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Skeleton.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Slider": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Slider.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Slot": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Slot.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Toaster": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Sonner.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Table": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Table.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\TableHeader": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Table.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\TableBody": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Table.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\TableFooter": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Table.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\TableRow": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Table.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\TableHead": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Table.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\TableCell": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Table.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\TableCaption": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Table.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Tabs": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Tabs.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\TabsContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Tabs.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\TabsList": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Tabs.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\TabsTrigger": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Tabs.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Textarea": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Textarea.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Toast": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Toast.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ToggleSwitch": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\ToggleSwitch.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Toggle": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Toogle.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ToggleGroup": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\ToogleGroup.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\ToggleGroupItem": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\ToogleGroup.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\Tooltip": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Tooltip.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\TooltipProvider": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Tooltip.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\TooltipTrigger": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Tooltip.php"
+  },
+  "Lib\\PHPX\\PHPXUI\\TooltipContent": {
+    "filePath": "Lib\\PHPX\\PHPXUI\\Tooltip.php"
+  },
+  "Lib\\PHPX\\PPIcons\\ChartBar": {
+    "filePath": "Lib\\PHPX\\PPIcons\\ChartBar.php"
+  },
+  "Lib\\PHPX\\PPIcons\\Check": {
+    "filePath": "Lib\\PHPX\\PPIcons\\Check.php"
+  },
+  "Lib\\PHPX\\PPIcons\\CreditCard": {
+    "filePath": "Lib\\PHPX\\PPIcons\\CreditCard.php"
+  },
+  "Lib\\PHPX\\PPIcons\\Eye": {
+    "filePath": "Lib\\PHPX\\PPIcons\\Eye.php"
+  },
+  "Lib\\PHPX\\PPIcons\\EyeOff": {
+    "filePath": "Lib\\PHPX\\PPIcons\\EyeOff.php"
+  },
+  "Lib\\PHPX\\PPIcons\\House": {
+    "filePath": "Lib\\PHPX\\PPIcons\\House.php"
+  },
+  "Lib\\PHPX\\PPIcons\\LoaderCircle": {
+    "filePath": "Lib\\PHPX\\PPIcons\\LoaderCircle.php"
+  },
+  "Lib\\PHPX\\PPIcons\\LogOut": {
+    "filePath": "Lib\\PHPX\\PPIcons\\LogOut.php"
+  },
+  "Lib\\PHPX\\PPIcons\\PanelLeft": {
+    "filePath": "Lib\\PHPX\\PPIcons\\PanelLeft.php"
+  },
+  "Lib\\PHPX\\PPIcons\\Pencil": {
+    "filePath": "Lib\\PHPX\\PPIcons\\Pencil.php"
+  },
+  "Lib\\PHPX\\PPIcons\\Plus": {
+    "filePath": "Lib\\PHPX\\PPIcons\\Plus.php"
+  },
+  "Lib\\PHPX\\PPIcons\\Settings": {
+    "filePath": "Lib\\PHPX\\PPIcons\\Settings.php"
+  },
+  "Lib\\PHPX\\PPIcons\\Trash": {
+    "filePath": "Lib\\PHPX\\PPIcons\\Trash.php"
+  },
+  "Lib\\PHPX\\PPIcons\\UserCog": {
+    "filePath": "Lib\\PHPX\\PPIcons\\UserCog.php"
+  },
+  "Lib\\PHPX\\PPIcons\\Users": {
+    "filePath": "Lib\\PHPX\\PPIcons\\Users.php"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "projectName": "prisma-php-2fa",
+  "projectRootPath": "C:\\xampp\\htdocs\\projects\\prisma-php\\posts\\prisma-php-2fa",
+  "phpEnvironment": "XAMPP",
+  "phpRootPathExe": "C:\\xampp\\php\\php.exe",
+  "bsTarget": "http://localhost/projects/prisma-php/posts/prisma-php-2fa/",
+  "bsPathRewrite": {
+    "^/": "/projects/prisma-php/posts/prisma-php-2fa/"
+  },
+  "backendOnly": false,
+  "swaggerDocs": false,
+  "tailwindcss": true,
+  "websocket": false,
+  "prisma": true,
+  "docker": false,
+  "version": "1.28.8",
+  "excludeFiles": []
+}
