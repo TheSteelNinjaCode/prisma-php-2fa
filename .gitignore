@@ -5,7 +5,7 @@ node_modules/
 vendor/
 
 # Environment files
-.env
+# .env
 .env.*
 
 # PHP-specific files
